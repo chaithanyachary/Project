@@ -1,0 +1,6 @@
+com\oms\repositories\ProductRepository.class
+com\oms\service\ProductService.class
+com\oms\entities\Product.class
+com\oms\OmsProductApplication.class
+com\oms\controllers\ProductController.class
+com\oms\service\ProductServiceImpl.class
