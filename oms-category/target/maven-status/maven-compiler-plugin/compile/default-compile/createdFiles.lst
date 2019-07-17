@@ -1,0 +1,6 @@
+com\oms\repositories\CategoryRepository.class
+com\oms\OmsCategoryApplication.class
+com\oms\service\CategoryServiceImpl.class
+com\oms\controller\CategoryController.class
+com\oms\service\CategoryService.class
+com\oms\entities\Category.class
