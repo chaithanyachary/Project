@@ -1,0 +1,6 @@
+com\oms\service\ShipperService.class
+com\oms\entities\Shipper.class
+com\oms\repositories\ShipperRepository.class
+com\oms\OmsShipperApplication.class
+com\oms\controllers\ShipperController.class
+com\oms\service\ShipperServiceImpl.class

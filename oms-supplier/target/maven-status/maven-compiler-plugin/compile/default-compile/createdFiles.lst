@@ -1,0 +1,6 @@
+com\oms\entities\Supplier.class
+com\oms\services\SupplierServiceImpl.class
+com\oms\repositories\SupplierRepository.class
+com\oms\controllers\SupplierController.class
+com\oms\services\SupplierService.class
+com\oms\OmsSupplierApplication.class
