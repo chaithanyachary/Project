@@ -1,0 +1,6 @@
+com\oms\controller\CustomerController.class
+com\oms\repositories\CustomerRepository.class
+com\oms\service\CustomerServiceImpl.class
+com\oms\OmsCustomerApplication.class
+com\oms\service\CustomerService.class
+com\oms\entity\Customer.class
